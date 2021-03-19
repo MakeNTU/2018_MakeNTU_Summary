@@ -4,6 +4,11 @@ AInsight: Event summary and list of team repositories!
 
 ## 2018 Official Website
 https://github.com/maoredman/2018-MakeNTU-website
+
+## 2018 Workshop
+[Slides Link](https://ntugeek.github.io/MakeNTU-2018-workshop/#/) \
+[GitHub Link](https://github.com/NTUgEEk/MakeNTU-2018-workshop)
+
 ## Winning team repositories
 <!--English Description TBA-->
 
